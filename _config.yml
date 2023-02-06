@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: Team Nirakoot
 email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+description: "Art Journal"
+url: "https://teamnirakoot.github.io"
+baseurl: "/nirakoot"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Team Nirakoot
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://teamnirakoot.github.io/nirakoot/gallery/"  
+  - JOURNAL: "https://teamnirakoot.github.io/nirakoot/journal/"
+  - ABOUT: "https://teamnirakoot.github.io/nirakoot/about/"
 
 # All translation keys
 translations:
